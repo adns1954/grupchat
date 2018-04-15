@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.google.firebase.database.FirebaseDatabase.getReference(s)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
